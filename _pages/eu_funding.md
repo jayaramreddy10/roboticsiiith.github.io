@@ -14,10 +14,18 @@ permalink: /eufunding/
 
 
 <!-- ![Image Alt Text](/images/eufunding/eaceaPicture1.png) -->
+<div class='eu-header-row'>
+<div class="col1">
 
-<div class="eu-funding-logo">
+  ![Image Alt Text](/images/eufunding/iras_hub.png)
+
+</div>
+
+<div class="col1">
   ![Image Alt Text](/images/eufunding/eaceaPicture1.png) <!-- Styling done in css/main.scss (Observation: Styles work well when placed in main.scss when compared to inline style) -->
   <!-- <p style="margin-left: 10px;">Your text goes here.</p> -->
+</div>
+
 </div>
 
 
